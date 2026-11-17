@@ -30,3 +30,15 @@ This section breaks down business logistics, pricing trends, online availability
 * **Online Order Availability:** Donut chart showing that 54.07% (5K) of establishments offer online ordering, while 45.93% (4K) do not.
 * **Table Booking vs Average Rating:** Bar chart comparing average ratings against table reservation availability (Yes vs No).
 * **Rating And Cost Analysis By Restaurant Type:** Detailed dual-axis breakdown evaluating average cost and average ratings across various restaurant formats (such as Fine Dining, Bar, Casual Dining, Pub, and Café combinations).
+
+### ⭐ Customer And Rating Insights Dashboard
+This view highlights customer dining preferences, geographic engagement, and satisfaction scores across restaurant categories.
+
+* **Top 10 Cuisines:** Horizontal bar chart ranking the most prominent cuisine combinations by volume (including Vietnamese/Salad, Vietnamese, and Turkish varieties).
+* **Vote Distribution Across Cities:** Interactive geographic map visualizing customer vote density across Bengaluru neighborhoods and surrounding areas.
+* **Restaurant Type vs. Average Rating:** Detailed tabular breakdown comparing average customer ratings across specific establishment categories (e.g., Bakery, Cafe, Casual Dining, Bar, and Pub), showing an overall average rating of **3.69**.
+
+
+<p align="center">
+  <img src="PREVIEWS/3.jpg" alt="Operational Analysis" width="100%">
+</p>
